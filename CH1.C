@@ -62,5 +62,23 @@
     return 0;
  } */
  
- 
+
+ /* #include <stdio.h>
+int main() {
+    char color;
+
+    printf("Enter the color code (R for Red, Y for Yellow, G for Green): ");
+    scanf(" %c", &color);
+
+    if (color == 'R') {
+        printf("Stop\n");
+    } else if (color == 'Y') {
+        printf("Slow down\n");
+    } else if (color == 'G') {
+        printf("Go\n");
+    } else {
+        printf("Invalid\n");
+    }
+      return 0;
+} */
 
