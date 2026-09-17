@@ -61,7 +61,12 @@
     printf("i will become a very successful businessman in future\n");
     return 0;
  } */
- 
+
+
+ // QUESTION PRACTICE//
+
+
+// QUESTION: Write a C program to check traffic light color and print the corresponding action.
 
  /* #include <stdio.h>
 int main() {
@@ -82,3 +87,18 @@ int main() {
       return 0;
 } */
 
+//
+
+/* #include <stdio.h>
+int main()  {
+    int a;
+    int b; 
+    printf("enter a: ");
+    scanf("%d", &a);
+    printf("enter b: ");
+    scanf("%d", &b);
+
+    printf("sum is %d\n" ,a+b);
+
+    return 0;
+} */
